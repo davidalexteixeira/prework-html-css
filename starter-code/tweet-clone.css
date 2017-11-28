@@ -1,0 +1,97 @@
+body {
+background: rgb(244, 248, 249);
+font-family: "Helvetica";
+width: 500px;
+}
+
+.tweet {
+  background: rgb(255, 255, 255);
+  border: 1.5px solid rgb(225, 232, 237);
+  border-radius: 5px;
+}
+
+.img{
+  padding: 20px 0px 10px 20px;
+  float:left;
+  height: 42px;
+}
+
+.img1{
+  padding: 20px 5px 20px 15px;
+  height: 18px;
+  float:left;
+}
+
+
+.button {
+    border: 1.5px solid rgb(85, 172, 238);
+    color: rgb(85, 172, 238);
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 5px 15px 5px 15px;
+    position:fixed;
+    top: 30px;
+    left: 370px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.username {
+  color: rgb(0, 0, 0);
+  padding-top: 18px;
+  display:inline-block;
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.user{
+  color: rgb(104, 109, 129);
+  margin: 0;
+  position:absolute;
+  left: 80px;
+  bottom: 10;
+}
+
+.text{
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 0;
+
+}
+
+.date{
+  color: rgb(101, 116, 127);
+  padding-left: 20px;
+  margin-top: 3px;
+  font-weight: normal;
+
+}
+
+.img2{
+padding-left: 22px;
+height: 12px;
+}
+
+.img3{
+padding-left: 18px;
+padding-right: 2px;
+height: 12px;
+}
+
+.img4{
+padding-left: 18px;
+padding-right: 2px;
+height: 12px;
+}
+
+.bottom-text{
+  color: rgb(105, 120, 130);
+  display: inline-block;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
